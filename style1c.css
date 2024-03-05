@@ -1,0 +1,33 @@
+.box{
+    border: 1px solid lightgray;
+    margin: 20px auto;
+    width: 250px;
+    border-radius: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+img{
+    width: 100%;
+    height: 170px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+h3,p,button{
+    margin: 16px;
+}
+h3{
+    font-weight: 500;
+    
+}
+p{
+    font-size:20;
+    color: gray;
+}
+.btn{
+    background-color: white;
+    border: 1px solid lightgray;
+    color: blueviolet;
+    padding:10px;
+    width: 40% auto;
+    border-radius: 5px;
+    font-weight: 520;
+}
