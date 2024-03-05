@@ -1,0 +1,28 @@
+.box{
+    border: none;
+    margin: 20px auto;
+    width: 450px;
+    height:400px;
+    padding: 46px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: rgba(135, 236, 135, 0.822);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.para{
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+}
+.btn{
+    text-align: center;
+    border: none;
+    border-radius: 40px;
+    font-size: 20px;
+    width: 270px;
+    margin-top: 20px;
+    padding: 17px;
+    color: black;
+    background-color: white;
+    box-sizing: border-box;
+}
